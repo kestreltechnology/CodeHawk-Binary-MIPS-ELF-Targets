@@ -1,0 +1,11 @@
+{
+    "executables": {
+	"tempfile": {
+	    "path": "binutils/tempfile",
+	    "file": "tempfile",
+	    "md5": "b59d198fccaba235168a9b96c367e5f0",
+	    "size": 10188,
+	    "origin": "downloaded from /bin on MIPS processor; date: Jun 28  2012"
+	}
+    }
+}

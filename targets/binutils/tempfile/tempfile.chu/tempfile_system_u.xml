@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codehawk-binary-analyzer>
+  <header info="system-userdata" name="tempfile" time="2020-03-21 15:53:08.123881"/>
+  <system-info>
+    <settings/>
+    <data-blocks/>
+    <function-entry-points/>
+    <function-names/>
+    <non-returning-functions/>
+    <esp-adjustments/>
+  </system-info>
+</codehawk-binary-analyzer>
